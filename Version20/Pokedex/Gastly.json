@@ -4,7 +4,7 @@
     "Name": "Gastly",
     "Type1": "Ghost",
     "Type2": "Poison",
-    "BaseHP": 4,
+    "BaseHP": 2,
     "Strength": 1,
     "MaxStrength": 3,
     "Dexterity": 2,
