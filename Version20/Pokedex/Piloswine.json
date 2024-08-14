@@ -4,7 +4,7 @@
     "Name": "Piloswine",
     "Type1": "Ice",
     "Type2": "Ground",
-    "BaseHP": 4,
+    "BaseHP": 6,
     "Strength": 3,
     "MaxStrength": 6,
     "Dexterity": 2,
