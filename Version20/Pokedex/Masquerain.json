@@ -4,7 +4,7 @@
     "Name": "Masquerain",
     "Type1": "Bug",
     "Type2": "Flying",
-    "BaseHP": 4,
+    "BaseHP": 5,
     "Strength": 2,
     "MaxStrength": 4,
     "Dexterity": 2,
