@@ -4,7 +4,7 @@
     "Name": "Steelix",
     "Type1": "Steel",
     "Type2": "Ground",
-    "BaseHP": 9,
+    "BaseHP": 6,
     "Strength": 2,
     "MaxStrength": 5,
     "Dexterity": 1,
