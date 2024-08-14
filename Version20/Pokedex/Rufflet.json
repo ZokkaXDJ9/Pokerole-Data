@@ -4,7 +4,7 @@
     "Name": "Rufflet",
     "Type1": "Normal",
     "Type2": "Flying",
-    "BaseHP": 3,
+    "BaseHP": 4,
     "Strength": 2,
     "MaxStrength": 5,
     "Dexterity": 2,
