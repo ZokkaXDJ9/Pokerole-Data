@@ -21,7 +21,7 @@
     "EventAbilities": "",
     "RecommendedRank": "Master",
     "GenderType": "F",
-    "Legendary": true,
+    "Legendary": false,
     "GoodStarter": false,
     "_id": "latias",
     "DexCategory": "No Data",
