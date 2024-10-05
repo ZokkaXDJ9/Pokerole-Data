@@ -7,7 +7,7 @@
     "Accuracy1": "Strength",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Recoil. Roll 1 Chance Dice to Apply Burn 3 to the foe.",
+    "Effect": "Recoil. Roll 1 Chance Dice to Apply Burn to the foe.",
     "Description": "The user sets itself on fire, recklessly charging against the target with a brutal strike.",
     "_id": "flare-blitz",
     "Attributes": {

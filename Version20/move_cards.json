@@ -2074,7 +2074,7 @@
       "property | Type | Flying",
       "property | Accuracy | Dexterity + Brawl",
       "property | Damage | Strength + 4",
-      "property | Added Effect | Ranged. Charge Move. Low Priority 3. If the User is hit by a Non Ranged Physical Attack while this move is charging, apply Burn 2 to the foe.",
+      "property | Added Effect | Ranged. Charge Move. Low Priority 3. If the User is hit by a Non Ranged Physical Attack while this move is charging, apply Burn to the foe.",
       "rule",
       "text | The Pokemon gets ready to release a boiling gas through its beak, which gets incredibly hot. The resulting blast sounds like a train's horn."
     ],
@@ -2642,7 +2642,7 @@
       "property | Type | Fire",
       "property | Accuracy | Dexterity + Brawl",
       "property | Damage | Strength + 3",
-      "property | Added Effect | High Critical. Roll 2 Chance Dice to Apply Burn 2 to the Foe. -1 Accuracy.",
+      "property | Added Effect | High Critical. Roll 2 Chance Dice to Apply Burn to the Foe. -1 Accuracy.",
       "rule",
       "text | The user throws a mighty kick engulfed in fire that may leave a bad looking burn."
     ],
@@ -2776,7 +2776,7 @@
       "property | Type | Fire",
       "property | Accuracy | Special + Channel",
       "property | Damage | Special + 6",
-      "property | Added Effect | Roll 2 Chance Dice to Apply Burn 3 to the foe. -2 Accuracy.",
+      "property | Added Effect | Roll 2 Chance Dice to Apply Burn to the foe. -2 Accuracy.",
       "rule",
       "text | Reshiram surrounds itself with a giant blue flame that is unleashed with an earth shattering explosion. Receiving this attack directly might completely engulf you in fire."
     ],
@@ -9275,7 +9275,7 @@
       "property | Type | Fire",
       "property | Accuracy | Special + Channel",
       "property | Damage | Special + 5",
-      "property | Added Effect | Lethal. Roll 3 Chance Dice to apply Burn 3 to the foe. -2 Accuracy.",
+      "property | Added Effect | Lethal. Roll 3 Chance Dice to apply Burn to the foe. -2 Accuracy.",
       "rule",
       "text | The Pokemon shoots a giant fireball that explodes on contact with the foe, blasting fire in all directions."
     ],
@@ -9446,7 +9446,7 @@
       "property | Type | Fire",
       "property | Accuracy | Dexterity + Brawl",
       "property | Damage | Strength + 3",
-      "property | Added Effect | Fist Based. Roll 1 Chance Dice to apply Burn 2 to the foe.",
+      "property | Added Effect | Fist Based. Roll 1 Chance Dice to apply Burn to the foe.",
       "rule",
       "text | The User can ignite its fists for a brief moment without any danger of getting burned. The foe may not be so lucky."
     ],
@@ -9867,7 +9867,7 @@
       "property | Type | Fire",
       "property | Accuracy | Dexterity + Channel",
       "property | Damage | Special + 3",
-      "property | Added Effect | Roll 1 Chance Dice to Apply Burn 2 to the foe.",
+      "property | Added Effect | Roll 1 Chance Dice to Apply Burn to the foe.",
       "rule",
       "text | The user lets out a powerful fire stream that leaves a scorched trail."
     ],
@@ -9938,7 +9938,7 @@
       "property | Type | Fire",
       "property | Accuracy | Strength + Brawl",
       "property | Damage | Strength + 5",
-      "property | Added Effect | Recoil. Roll 1 Chance Dice to Apply Burn 3 to the foe.",
+      "property | Added Effect | Recoil. Roll 1 Chance Dice to Apply Burn to the foe.",
       "rule",
       "text | The user sets itself on fire, recklessly charging against the target with a brutal strike."
     ],
@@ -14533,7 +14533,7 @@
       "property | Type | Fire",
       "property | Accuracy | Dexterity + Channel",
       "property | Damage | Special + 4",
-      "property | Added Effect | Lethal. Apply Burn 3 to the Foe. -3 Accuracy.",
+      "property | Added Effect | Lethal. Apply Burn to the Foe. -3 Accuracy.",
       "rule",
       "text | The Pokemon sets the foe on fire. These flames rise up to 6 feet. A very dangerous Move."
     ],
@@ -21368,7 +21368,7 @@
       "property | Type | Fire",
       "property | Accuracy | Strength + Channel",
       "property | Damage | Strength + 5",
-      "property | Added Effect | Roll 1 Chance Dice to Apply Burn 2 to the Foe. -1 Accuracy.",
+      "property | Added Effect | Roll 1 Chance Dice to Apply Burn to the Foe. -1 Accuracy.",
       "rule",
       "text | The Pokemon lights a heavy stone on fire and kicks it while it's ablaze. The hit is pretty heavy already, the fire is just for showing off."
     ],
@@ -23344,7 +23344,7 @@
       "property | Type | Fire",
       "property | Accuracy | Dexterity + Channel",
       "property | Damage | Strength + 4",
-      "property | Added Effect | Lethal. Roll 5 Chance Dice to Apply Burn 3 to the Foe.",
+      "property | Added Effect | Lethal. Roll 5 Chance Dice to Apply Burn to the Foe.",
       "rule",
       "text | A blazing pillar of rainbow-colored flames crashes upon the foe, it burns and cleanses the evil from within. Those with a pure heart should not fear for they'll be unharmed."
     ],
@@ -24138,7 +24138,7 @@
       "property | Type | Fire",
       "property | Accuracy | Special + Channel",
       "property | Damage | Special + 5",
-      "property | Added Effect | Lethal. All Foes in Range. Roll 3 Chance Dice to Apply Burn 2 those Affected.",
+      "property | Added Effect | Lethal. All Foes in Range. Roll 3 Chance Dice to Apply Burn those Affected.",
       "rule",
       "text | The User torches everything around itself in a sudden burst of scarlet flames. Everything is brought to cinders in a matter of seconds."
     ],
@@ -26751,7 +26751,7 @@
       "property | Type | Water",
       "property | Accuracy | Dexterity + Channel",
       "property | Damage | Special + 4",
-      "property | Added Effect | Lethal. Roll 3 Chance Dice to Apply Burn 2 to those affected. -1 Accuracy.",
+      "property | Added Effect | Lethal. Roll 3 Chance Dice to Apply Burn to those affected. -1 Accuracy.",
       "rule",
       "text | In less than a second, the sound of steam boiling over a raging engine thunders through the ears of the foe before it is shot through the sky by a scalding geyser."
     ],
