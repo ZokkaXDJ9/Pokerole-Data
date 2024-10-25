@@ -7,7 +7,7 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "The target is dealt damage equal to its remaining HP plus 1 Lethal. -5 Accuracy.",
+    "Effect": "Inflicts Wounds. Damage Roll is Half of the Foe's remaining HP (up to 15) rounded down. If the remaining HP of the foe is 1 this move fails. Ignore the foe's Defenses. -3 Accuracy.",
     "Description": "The Pokemon uses the sharpest part of its body to almost snap the neck of its foe. It is a devastating attack. The foe must be lucky to get out of it alive.",
     "_id": "guillotine",
     "Attributes": {
