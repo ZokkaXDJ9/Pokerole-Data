@@ -1,0 +1,190 @@
+{
+    "Number": 20001,
+    "DexID": "20001",
+    "Name": "Gardegross",
+    "Type1": "Steel",
+    "Type2": "Psychic",
+    "BaseHP": 5,
+    "Strength": 3,
+    "MaxStrength": 6,
+    "Dexterity": 2,
+    "MaxDexterity": 5,
+    "Vitality": 3,
+    "MaxVitality": 6,
+    "Special": 3,
+    "MaxSpecial": 7,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Quark Drive",
+    "Ability2": "",
+    "HiddenAbility": "",
+    "EventAbilities": "",
+    "RecommendedRank": "Pro",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "gardegross",
+    "DexCategory": "Paradox Pokémon",
+    "Height": {
+        "Meters": 1.5,
+        "Feet": 4.92
+    },
+    "Weight": {
+        "Kilograms": 299.0,
+        "Pounds": 659.2
+    },
+    "DexDescription": "A fusion of Iron Valiant and Metagross, combining physical strength and psychic prowess.",
+    "Evolutions": [
+        {
+            "From": "Metagross",
+            "Kind": "Form"
+        }
+    ],
+    "Image": "gardegross.png",
+    "Moves": [
+        {
+            "Learned": "Starter",
+            "Name": "Confusion"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Disarming Voice"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Metal Claw"
+        },
+        {
+            "Learned": "Starter",
+            "Name": "Teleport"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Calm Mind"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Captivate"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Charm"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Heal Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Imprison"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Lucky Chant"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Magical Leaf"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Misty Terrain"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Wish"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Bullet Punch"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Dream Eater"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hypnosis"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Moonblast"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Stored Power"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hammer Arm"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Hyper Beam"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Defense"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Iron Head²"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Meteor Mash"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Grudge"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Helping Hand"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Magic Room"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Mean Look"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Skill Swap"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Wonder Room"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Block"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Headbutt"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Telekinesis"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Thunder Punch"
+        }
+    ]
+}

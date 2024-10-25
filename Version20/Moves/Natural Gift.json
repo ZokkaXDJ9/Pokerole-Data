@@ -7,7 +7,7 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "User loses its held berry. Ranged. See Natural Gift on p.432 for more info.",
+    "Effect": "User loses its held berry. Ranged. See Natural Gift on https://discord.com/channels/1271249120526602342/1298376178402332672 for more info.",
     "Description": "The user throws its berry at the foe. The results can be quite surprising.",
     "_id": "natural-gift",
     "Attributes": {

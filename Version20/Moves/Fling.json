@@ -7,8 +7,8 @@
     "Accuracy1": "Dexterity",
     "Accuracy2": "Brawl",
     "Target": "Foe",
-    "Effect": "Ranged. Add up to 4 Dice to the Damage Pool, depending on the held item thrown. See P. 432 for more info.",
-    "Description": "The usr takes its held item and throws it at the opponent. You may get it back after the fight.",
+    "Effect": "Ranged. Add up to 4 Dice to the Damage Pool, depending on the held item thrown. See https://discord.com/channels/1271249120526602342/1298376178402332672 for more info.",
+    "Description": "The user takes its held item and throws it at the opponent. You may get it back after the fight.",
     "_id": "fling",
     "Attributes": {
         "PhysicalRanged": true
