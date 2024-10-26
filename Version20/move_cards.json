@@ -11484,7 +11484,7 @@
       "property | Type | Grass",
       "property | Accuracy | Special + Perform",
       "property | Damage |  + 0",
-      "property | Added Effect | Sound Based. Put the Target to Sleep. -3 Accuracy.",
+      "property | Added Effect | Sound Based. Makes the target drowsy. -3 Accuracy.",
       "rule",
       "text | The user plays a beautiful and soothing melody that lulls the target into a peaceful sleep."
     ],
@@ -13942,7 +13942,7 @@
       "property | Type | Psychic",
       "property | Accuracy | Insight + Allure",
       "property | Damage |  + 0",
-      "property | Added Effect | Put the target to sleep. Dark-Type Pokemon are affected by this move. -4 Accuracy.",
+      "property | Added Effect | Makes the target drowsy. Dark-Type Pokemon are affected by this move. -4 Accuracy.",
       "rule",
       "text | Employ a hypnotic suggestion to make the target feel drowsy and fall into a deep slumber. Works better on a target that is not in danger."
     ],
@@ -16116,7 +16116,7 @@
       "property | Type | Normal",
       "property | Accuracy | Missing beauty + ALLURE",
       "property | Damage |  + 0",
-      "property | Added Effect | Put the Target to Sleep.",
+      "property | Added Effect | Makes the target drowsy.",
       "rule",
       "text | The Pokemon approaches the foe with a kiss. Its ugly face and awful smooch make the poor creature faint in terror."
     ],
@@ -25451,7 +25451,7 @@
       "property | Type | Grass",
       "property | Accuracy | Special + Nature",
       "property | Damage |  + 0",
-      "property | Added Effect | Put the Target to Sleep. -2 Accuracy.",
+      "property | Added Effect | Makes the target drowsy. -2 Accuracy.",
       "rule",
       "text | The user scatters powder around, anyone who comes in contact with it will fall asleep."
     ],
@@ -26597,7 +26597,7 @@
       "property | Type | Grass",
       "property | Accuracy | Special + Nature",
       "property | Damage |  + 0",
-      "property | Added Effect | Put the Target to Sleep.",
+      "property | Added Effect | Makes the target drowsy.",
       "rule",
       "text | A powerful somniferous spore that is shot at the target to make it fall asleep."
     ],

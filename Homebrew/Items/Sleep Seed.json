@@ -6,7 +6,7 @@
     "PMD": true,
     "Pocket": "HeldItems",
     "Category": "BattleItem",
-    "Description": "Make a Dexterity + Rank roll to shoot these seeds into your foe's mouth. Inflict the Drowsy/Sleep Condition.",
+    "Description": "Make a Dexterity + Rank roll to shoot these seeds into your foe's mouth. Inflict the Drowsy Condition.",
     "OneUse": true,
     "PMDPrice": 50.0
 }

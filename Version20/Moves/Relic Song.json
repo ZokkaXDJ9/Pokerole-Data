@@ -7,7 +7,7 @@
     "Accuracy1": "Special",
     "Accuracy2": "Perform",
     "Target": "All Foes",
-    "Effect": "Sound Based. Roll 1 Die to put the foe to Sleep. If successful, the User may choose to change its form afterwards.",
+    "Effect": "Sound Based. Roll 1 Die to make the foe drowsy. If successful, the User may choose to change its form afterwards.",
     "Description": "The user sings and dances to a melody so beautiful you won't notice you were crying while listening to it.",
     "_id": "relic-song",
     "Attributes": {

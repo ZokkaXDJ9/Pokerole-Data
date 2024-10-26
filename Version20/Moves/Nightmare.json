@@ -7,7 +7,7 @@
     "Accuracy1": "Will",
     "Accuracy2": "Channel",
     "Target": "Foe",
-    "Effect": "Will only work if the Target is asleep. Deal 1 Damage to the foe. Deal 1 Damage again at the beginning of each Round if the target is still asleep.",
+    "Effect": "Will only work if the Target is drowsy. Deal 1 Damage to the foe. Deal 1 Damage again at the beginning of each Round if the target is still drowsy.",
     "Description": "The user enters the target's dream to torment it.",
     "_id": "nightmare",
     "Attributes": {},

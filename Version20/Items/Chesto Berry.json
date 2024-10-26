@@ -5,7 +5,7 @@
     "PMD": true,
     "Pocket": "Medicine",
     "Category": "Berry",
-    "Description": "Eating this Berry will cure Sleep.",
+    "Description": "Eating this Berry will cure Drowsy.",
     "OneUse": false,
     "PMDPrice": 30.0,
     "Cures": "Sleep"

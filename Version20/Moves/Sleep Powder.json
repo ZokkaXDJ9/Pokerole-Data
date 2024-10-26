@@ -7,7 +7,7 @@
     "Accuracy1": "Special",
     "Accuracy2": "Nature",
     "Target": "Foe",
-    "Effect": "Put the Target to Sleep. -2 Accuracy.",
+    "Effect": "Makes the Target drowsy. -2 Accuracy.",
     "Description": "The user scatters powder around, anyone who comes in contact with it will fall asleep.",
     "_id": "sleep-powder",
     "Attributes": {
