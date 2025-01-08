@@ -1,0 +1,75 @@
+{
+    "Number": 20002,
+    "DexID": "20002",
+    "Name": "Mageporeon",
+    "Type1": "Water",
+    "Type2": "Dragon",
+    "BaseHP": 7,
+    "Strength": 2,
+    "MaxStrength": 4,
+    "Dexterity": 3,
+    "MaxDexterity": 6,
+    "Vitality": 2,
+    "MaxVitality": 4,
+    "Special": 4,
+    "MaxSpecial": 8,
+    "Insight": 3,
+    "MaxInsight": 7,
+    "Ability1": "Protosynthesis",
+    "Ability2": "",
+    "HiddenAbility": "Ancient Magic",
+    "EventAbilities": "",
+    "RecommendedRank": "Amateur",
+    "GenderType": "",
+    "Legendary": false,
+    "GoodStarter": false,
+    "_id": "mageporeon",
+    "DexCategory": "Ancient Vaporeon",
+    "Height": {
+        "Meters": 1.7,
+        "Feet": 5.58
+    },
+    "Weight": {
+        "Kilograms": 65.0,
+        "Pounds": 143.3
+    },
+    "DexDescription": "Past Paradox Vaporeon.",
+    "Evolutions": [
+        {
+            "From": "Vaporeon",
+            "Kind": "Level",
+            "Speed": "Medium"
+        }
+    ],
+    "Image": "mageporeon.png",
+    "Moves": [
+        {
+            "Learned": "Beginner",
+            "Name": "Dragon Pulse"
+        },
+        {
+            "Learned": "Beginner",
+            "Name": "Psychic"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Dark Pulse"
+        },
+        {
+            "Learned": "Amateur",
+            "Name": "Mystical Fire"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Twister"
+        },
+        {
+            "Learned": "Ace",
+            "Name": "Future Sight"
+        },
+        {
+            "Learned": "Pro",
+            "Name": "Draco Meteor"
+        }
+    ]
+}
