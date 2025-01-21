@@ -6,7 +6,7 @@
     "PMD": false,
     "Pocket": "HeldItems",
     "Category": "TypeBoosting",
-    "Description": "Adds 1 damage dice to Bug type moves. When held by Arceus, change it's type to Bug.",
+    "Description": "Cannot be used, unless held by Arceus. Adds 2 flat damage to Bug type attacks. When held by Arceus, change it's type to Bug.",
     "OneUse": false,
     "TrainerPrice": ""
 }
