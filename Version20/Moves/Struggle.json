@@ -2,7 +2,7 @@
     "Name": "Struggle",
     "Type": "Typeless",
     "Power": 0,
-    "Damage1": "Strength/special",
+    "Damage1": "Strength/Special",
     "Damage2": "",
     "Accuracy1": "Dexterity",
     "Accuracy2": "BRAWL/CHANNEL",
@@ -10,5 +10,5 @@
     "Effect": "The most basic attack.",
     "Description": "",
     "_id": "struggle",
-    "Category": "Physical/special"
+    "Category": "Physical/Special"
 }
