@@ -1,7 +1,7 @@
 {
     "Number": 20002,
     "DexID": "20002",
-    "Name": "Mageporeon",
+    "Name": "Mystic Frill",
     "Type1": "Water",
     "Type2": "Dragon",
     "BaseHP": 7,
@@ -23,7 +23,7 @@
     "GenderType": "",
     "Legendary": false,
     "GoodStarter": false,
-    "_id": "mageporeon",
+    "_id": "mystic-frill",
     "DexCategory": "Ancient Vaporeon",
     "Height": {
         "Meters": 1.7,
