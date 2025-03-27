@@ -1,0 +1,75 @@
+{
+  "Number": 20005,
+  "DexID": "20005",
+  "Name": "Flaming Spears",
+  "Type1": "Fighting",
+  "Type2": "Fire",
+  "BaseHP": 6,
+  "Strength": 4,
+  "MaxStrength": 8,
+  "Dexterity": 3,
+  "MaxDexterity": 6,
+  "Vitality": 3,
+  "MaxVitality": 6,
+  "Special": 2,
+  "MaxSpecial": 4,
+  "Insight": 3,
+  "MaxInsight": 6,
+  "Ability1": "Protosynthesis",
+  "Ability2": "",
+  "HiddenAbility": "Combustion",
+  "EventAbilities": "",
+  "RecommendedRank": "Amateur",
+  "GenderType": "Unknown",
+  "Legendary": false,
+  "GoodStarter": false,
+  "_id": "Flaming Spears",
+  "DexCategory": "Paradox Pokemon",
+  "Height": {
+    "Meters": 5.01,
+    "Feet": 16.37
+  },
+  "Weight": {
+    "Kilograms": 172.9,
+    "Pounds": 381.2
+  },
+  "DexDescription": "Past Paradox Falinks.",
+  "Evolutions": [
+    {
+      "From": "Falinks",
+      "Kind": "Level",
+      "Speed": "Medium"
+    }
+  ],
+  "Image": "Flaming-Spears.png",
+  "Moves": [
+    {
+      "Learned": "Beginner",
+      "Name": "Flame Charge"
+    },
+    {
+      "Learned": "Beginner",
+      "Name": "Power-Up-Punch"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Fury Attack"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Sacred Sword"
+    },
+    {
+      "Learned": "Ace",
+      "Name": "Morning Sun"
+    },
+    {
+      "Learned": "Ace",
+      "Name": "Flare Blitz"
+    },
+    {
+      "Learned": "Pro",
+      "Name": "Liquidation"
+    }
+  ]
+}

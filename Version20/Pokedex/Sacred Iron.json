@@ -1,0 +1,144 @@
+{
+  "Number": 20004,
+  "DexID": "20004",
+  "Name": "Sacred Iron",
+  "Type1": "Steel",
+  "Type2": "Flying",
+  "BaseHP": 6,
+  "Strength": 3,
+  "MaxStrength": 7,
+  "Dexterity": 2,
+  "MaxDexterity": 5,
+  "Vitality": 4,
+  "MaxVitality": 8,
+  "Special": 1,
+  "MaxSpecial": 3,
+  "Insight": 3,
+  "MaxInsight": 7,
+  "Ability1": "Quark Drive",
+  "Ability2": "",
+  "HiddenAbility": "Clear Body",
+  "EventAbilities": "",
+  "RecommendedRank": "Amateur",
+  "GenderType": "",
+  "Legendary": false,
+  "GoodStarter": false,
+  "_id": "Sacred Iron",
+  "DexCategory": "A future meld of both Gliscor and Aggron",
+  "Height": {
+    "Meters": 2.05,
+    "Feet": 6.7
+  },
+  "Weight": {
+    "Kilograms": 105.0,
+    "Pounds": 233.4
+  },
+  "DexDescription": "Gliscor and Aggron Fusion",
+  "Evolutions": [
+    {
+      "From": "Gliscor",
+      "Kind": "Level",
+      "Speed": "Medium"
+    }
+  ],
+  "Image": "Sacred Iron.png",
+  "Moves": [
+    {
+      "Learned": "Beginner",
+      "Name": "Harden"
+    },
+    {
+      "Learned": "Beginner",
+      "Name": "Metal Claw"
+    },
+    {
+      "Learned": "Beginner",
+      "Name": "Mud Slap"
+    },
+    {
+      "Learned": "Beginner",
+      "Name": "Tackle"
+    },
+    {
+      "Learned": "Beginner",
+      "Name": "Take Down"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Headbutt"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Iron Defense"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Iron Head"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Iron Tail"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Metal Sound"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Protect"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Roar"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Rock Slide"
+    },
+    {
+      "Learned": "Amateur",
+      "Name": "Rock Tomb"
+    },
+
+    {
+      "Learned": "Ace",
+      "Name": "Autotomize"
+    },
+    {
+      "Learned": "Ace",
+      "Name": "Double-Edge"
+    },
+    {
+      "Learned": "Ace",
+      "Name": "Heavy Slam"
+    },
+    {
+      "Learned": "Ace",
+      "Name": "Metal Burst"
+    },
+    {
+      "Learned": "Ace",
+      "Name": "Rollout"
+    },
+    {
+      "Learned": "Pro",
+      "Name": "Dragon Rush"
+    },
+    {
+      "Learned": "Pro",
+      "Name": "Endeavor"
+    },
+    {
+      "Learned": "Pro",
+      "Name": "Head Smash"
+    },
+    {
+      "Learned": "Pro",
+      "Name": "Screech"
+    },
+    {
+      "Learned": "Pro",
+      "Name": "Superpower"
+    }
+  ]
+}
