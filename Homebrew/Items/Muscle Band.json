@@ -6,7 +6,7 @@
     "PMD": false,
     "Pocket": "HeldItems",
     "Category": "BattleItem",
-    "Description": "Boosts the power of all Physical moves by 1.",
+    "Description": "Adds 1 damage die to the User's Physical moves.",
     "OneUse": false,
     "TrainerPrice": ""
 }
